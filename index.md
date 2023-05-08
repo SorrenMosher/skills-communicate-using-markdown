@@ -5,4 +5,4 @@
 ##### smaller
 ###### smallest
 
-Commit Message: Testing out header sizes
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
